@@ -1,0 +1,16 @@
+{
+    "name": "SimpleECS",
+    "rootNamespace": "",
+    "references": [
+        "GUID:25d32a8a6004e4a6d823dc2e6d6c0415"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
